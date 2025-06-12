@@ -12,9 +12,9 @@ site_theme               : "default"
 title                    : "Andrew Liu / Site Title"
 title_separator          : "-"
 name                     : &name "Andrew Liu"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Undergraduate maths student"
+url                      : https://andrew-liu18.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/AndrewLiu" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrew Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Coventry, United Kindom"
+  employer         : "University of Warwick"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andrewliu1118@gmail.com" 
 
   # Academic websites
   academia         : # URL
